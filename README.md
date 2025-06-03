@@ -21,13 +21,13 @@ DHT11实时采集温湿度数据，将数据实时显示在 OLED 显示屏，同
 - Report：报告和 PPT（报告很垃圾，建议大家重新写，PPT 可以，尤其是机智云模块，**是作者我用心打磨**）
 - 点亮 E 只大马猴：来源于他 b 站提供的资料**（强烈推荐）**
 
-![image-20250603083250329](D:/06-Documents/Blog/source/images/image-20250603083250329.png)
+![image-20250603083250329](images/image-20250603083250329.png)
 
 ## 辰哥单片机设计
 
 代码的 **全部** 来源，将辰哥提供的代码进行了整合，并修改了引脚设置，稍作修改
 
-![image-20250513084858100](D:/06-Documents/Blog/source/images/image-20250513084858100.png)
+![image-20250513084858100](images/image-20250513084858100.png)
 
 
 
@@ -67,7 +67,7 @@ DHT11实时采集温湿度数据，将数据实时显示在 OLED 显示屏，同
 
 上述模块，辰哥在 CSDN 上发布了全部相关内容，文字部分，大家如果不想看视频，直接看 CSDN 文字部分也行。
 
-![image-20250513085143572](D:/06-Documents/Blog/source/images/image-20250513085143572-1747097554902-1.png)
+![image-20250513085143572](images/image-20250513085143572-1747097554902-1.png)
 
 ## 点亮 E 只大马猴
 
@@ -75,7 +75,7 @@ DHT11实时采集温湿度数据，将数据实时显示在 OLED 显示屏，同
 
 另外给大家推荐这个 up 主，**幽默风趣，很有意思**
 
-![image-20250513084937866](D:/06-Documents/Blog/source/images/image-20250513084937866.png)
+![image-20250513084937866](images/image-20250513084937866.png)
 
 【STM32+PCB 设计+物联网，手牵手带你从零开始画板子+写代码】https://www.bilibili.com/video/BV18arkYjEuL?vd_source = fe8f5a276c042b87f677f1cf9bad7567
 
@@ -92,9 +92,9 @@ DHT11实时采集温湿度数据，将数据实时显示在 OLED 显示屏，同
 
 **硬件电路的引脚连接，代码的整体框架设计，完全按照这个开发**
 
-![image-20250513085752644](D:/06-Documents/Blog/source/images/image-20250513085752644.png)
+![image-20250513085752644](images/image-20250513085752644.png)
 
-![img](D:/06-Documents/Blog/source/images/b633188864be4a72b4820ff7a742b617.png)
+![img](images/b633188864be4a72b4820ff7a742b617.png)
 
 
 
@@ -115,17 +115,17 @@ DHT11实时采集温湿度数据，将数据实时显示在 OLED 显示屏，同
 - ESP8266：空
 - 机智云：测试机智云协议
 
-![image-20250513090054344](D:/06-Documents/Blog/source/images/image-20250513090054344.png)
+![image-20250513090054344](images/image-20250513090054344.png)
 
 ## 实物
 
 这是我们的实物连接图，用面包板连，确实很丑
 
-![image-20250603081651084](D:/06-Documents/Blog/source/images/image-20250603081651084.png)
+![image-20250603081651084](images/image-20250603081651084.png)
 
 这是我们使用机智云开发的移动界面
 
-![image-20250603081743747](D:/06-Documents/Blog/source/images/image-20250603081743747.png)
+![image-20250603081743747](images/image-20250603081743747.png)
 
 ## 材料
 
@@ -133,11 +133,11 @@ DHT11实时采集温湿度数据，将数据实时显示在 OLED 显示屏，同
 
 下面是我采购的材料
 
-<img src="D:/06-Documents/Blog/source/images/113511fe4fecaaa2946a0d3ee4cb2bd.jpg" alt="113511fe4fecaaa2946a0d3ee4cb2bd" style="zoom:25%;" />
+<img src="images/113511fe4fecaaa2946a0d3ee4cb2bd.jpg" alt="113511fe4fecaaa2946a0d3ee4cb2bd" style="zoom:25%;" />
 
 
 
-<img src="D:/06-Documents/Blog/source/images/d10d3cc6babe4d55524cfd94a2aa5b4.jpg" alt="d10d3cc6babe4d55524cfd94a2aa5b4" style="zoom:25%;" />
+<img src="images/d10d3cc6babe4d55524cfd94a2aa5b4.jpg" alt="d10d3cc6babe4d55524cfd94a2aa5b4" style="zoom:25%;" />
 
 ## 小结
 
